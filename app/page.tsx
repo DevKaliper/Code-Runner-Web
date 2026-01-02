@@ -49,11 +49,8 @@ print(f"5 + 3 = {suma}")
 
 # Ejemplo de bucle
 for i in range(1, 6):
-    print(f"Iteración: {i}")
-
-# Ejemplo de lista
-numeros = [1, 2, 3, 4, 5]
-print(f"Lista: {numeros}")`
+    print(f"Iteracion: {i}")
+`
   };
 
   const handleLanguageChange = (newLang: keyof typeof codeExamples) => {
